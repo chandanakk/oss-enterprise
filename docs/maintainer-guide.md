@@ -1,6 +1,6 @@
 # Maintainer's Guide
 
-As a maintainer of an open source project, you become the face of the company to a community of users and potential contributors. Your actions as a maintainer reflect on our organization as a whole. Before you begin this journey, consider what it means to be a maintainer:
+As a maintainer of an Open source project, you become the face of the company to a community of users and potential contributors. Your actions as a maintainer reflect on our organization as a whole. Before you begin this journey, consider what it means to be a maintainer:
 
 ## The role of the Maintainer
 
